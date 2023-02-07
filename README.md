@@ -10,7 +10,7 @@ Projeto desenvolvido para aprodundar os conhecimentos em calculo numérico.
 
 - Paulo Henrique de Farias Martins
 - Paulo Hebert
-- Ariel
+- Ariel Fernando Jordão Alves
 
 
 ## Deploy
