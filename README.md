@@ -9,8 +9,12 @@ Projeto desenvolvido para aprodundar os conhecimentos em calculo numérico.
 ## Autores
 
 - Paulo Henrique de Farias Martins
+Tópico 3 questão 2
 - Paulo Hebert
+Tópico 1 questão 2
+Tópico 4 questão 3
 - Ariel Fernando Jordão Alves
+Tópico 2 questão 2
 
 
 ## Deploy
