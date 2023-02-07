@@ -1,0 +1,22 @@
+Pre-requesitos:
+gcc/g++
+python3
+biblioteca numpy
+possiveis métodos de instalação:
+python -m pip install --user numpy
+python3 -m pip install --user numpy
+
+
+Para windows : 
+#Compilar e testar topico 1
+g++ topico1_questao3.cpp -o t1_q3 -lm -Wall && t1_q3.exe < exemplo_t1q3.txt
+
+#Compilar e testar topico 4
+ g++ topico4_questao2.cpp -o t4_q2 -Wall && t4_q2.exe < exemplo_t4q2.txt
+
+#Compilar e testar topico 2 questão 2
+gcc topico2_questao2.c -o t2_q2 -Wall && t2_q2.exe < matriz.txt
+
+#Compilar e testar topico 3 questao 2
+python3 -u topico3_questao2.py
+
